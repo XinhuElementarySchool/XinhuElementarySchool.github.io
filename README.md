@@ -1,7 +1,7 @@
 [**台北市內湖區新湖國民小學 (Website Page)**](https://xinhuelementaryschool.github.io/)
 * **Home**
   * *Image*
-    * Location: [./src/home/](./src/home/)
+    * Location: [src/home/](src/home/)
       1. Update Method:  Replace images and keep the filenames same.
       2. Update Notifications: small image size is better.  (.jpg is good enough in most case)
 ---------------------------------------------------------------------------

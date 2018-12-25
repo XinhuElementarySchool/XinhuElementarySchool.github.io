@@ -14,8 +14,8 @@
       |--Color Update: xinhu/css/gallery.css | .classColorAll | background-color (Reference: xinhu\tutorial\gallery\Category_Color.png)
    |--Create a new Video
       |--Web Update: xinhu\javascript\gallery_videos.js (Reference: xinhu\tutorial\gallery\Video_Update.mp4)
-      |--(Optional) Excel Update:  xinhu/youtubeVideos.xlsx
-      |--(Optional) Excel to Web:  https://www.csvjson.com/csv2json (Refference: xinhu\tutorial\gallery\Excel_to_Web.mp4)
+      |--(Optional) Excel Update:  xinhu/youtubeVideos.xlsx 
+      |--(Optional) Excel to Web:  [csv2json](https://www.csvjson.com/csv2json) or [freeformate](https://www.freeformatter.com/csv-to-json-converter.html) (Refference: xinhu\tutorial\gallery\Excel_to_Web.mp4)
 ---------------------------------------------------------------------------
 |--Medal
    |--Banner

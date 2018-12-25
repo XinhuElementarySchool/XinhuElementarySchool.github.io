@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+    <title>新湖國小活動影片專區</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="Xinhu Elementary School, 新湖國小, 活動影片專區">    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">    
+    <link rel="stylesheet" href="css/animation.css">
+    <link rel="stylesheet" href="css/gallery.css">
+</head>
+
+<body>    
+    <!-- TOP Division -->
+    <div id="top-div">   
+        <img id="top-img-blank" src="src/gallery/gallery_cover_blank.jpg">
+        <img id="top-img0" src="src/gallery/gallery_cover0.jpg">
+        <img id="top-img1" src="src/gallery/gallery_cover1.jpg">
+        <img id="top-img2" src="src/gallery/gallery_cover2.jpg">
+        <img id="top-img3" src="src/gallery/gallery_cover3.jpg">
+        <img id="top-img4" src="src/gallery/gallery_cover4.jpg">
+        <img id="top-img5" src="src/gallery/gallery_cover5.jpg">
+        <img id="top-img6" src="src/gallery/gallery_cover6.jpg">
+    </div>     
+    <!-- Button Group -->
+    <div id="filterButton" class="row no-gutters bg-dark">
+        <div class="col col-lg-auto">
+            <button class="classColorAll" onclick="filterClass('classColorAll')">全部</button>
+        </div>
+        <div class="col col-lg-auto">
+            <button class="classColor1" onclick="filterClass('classColor1')">活動</button>
+        </div>
+        <div class="col col-lg-auto">
+            <button class="classColor2" onclick="filterClass('classColor2')">體育</button>
+        </div>
+        <div class="col col-lg-auto">
+            <button class="classColor3" onclick="filterClass('classColor3')">音樂</button>
+        </div>
+        <div class="col col-lg-auto">
+            <button class="classColor4" onclick="filterClass('classColor4')">美術</button>
+        </div>
+        <div class="col col-lg-auto">
+            <button class="classColor5" onclick="filterClass('classColor5')">教育</button>
+        </div>
+        <div class="col col-lg-auto">
+            <button class="classColor6" onclick="filterClass('classColor6')">其他</button>
+        </div>
+    </div>     
+    <!-- Sorting Division -->
+    <div id="sorting-div" class="classColorAll">
+        <div class="dropdown text-right">
+            <button id="sorting-btn" class="btn classColorAll" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                SORT BY<i class="fas fa-2x fa-sort-amount-down ml-2"></i>
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">                
+                <button class="dropdown-item" onclick="sortGallery('oldest')">Date (oldest)</button>
+                <button class="dropdown-item" onclick="sortGallery('newest')">Date (newest)</button>
+            </div>
+        </div>
+    </div>
+    <div id="gallery-div" class="classColorAll">
+        <div class="container">                
+            <div class="row pt-2" class="classColorAll" data-cur-class="classColorAll">
+                <div id="gallery-cell-template" class="gallery-cell col-12 col-md-6 col-lg-3 my-2 pt-2" title="20180310新湖國小全國音樂賽">                        
+                    <div class="row no-gutters">
+                        <!-- Thumbnail-->
+                        <div class="col-6 col-lg-12">
+                            <a href="http://www.youtube.com/watch?v=kQPnbimrj_c" target="_blank">
+                                <img class="cell-image" src="https://img.youtube.com/vi/kQPnbimrj_c/mqdefault.jpg">
+                            </a>
+                        </div>
+                        <!-- Description-->
+                        <div class="col-6 col-lg-12 video-description pt-2 pl-2">
+                            <a class="cell-title" href="http://www.youtube.com/watch?v=kQPnbimrj_c" target="_blank">
+                                <h6>20180310新湖國小全國音樂賽</h6>
+                            </a>
+                            <div class="row align-items-center no-gutters">
+                                <p class="cell-date col-6 col-md-12">2018-3-12</p>
+                                <p class="cell-category text-right text-md-left col-6 col-md-12" title="音樂">
+                                    <button onclick="filterClass('music')">音樂</button>
+                                </p>
+                            </div>
+                        </div>            
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Gallery Division 
+    <div id="gallery-div" class="classColorAll" data-cur-class="classColorAll">
+        <div id="gallery-cell-template" class="gallery-cell" title="20180310新湖國小全國音樂賽">                        
+            <div class="row no-gutters align-items-center">
+                <!- - Thumbnail- ->
+                <div class="col-6 col-lg-12">
+                    <a href="http://www.youtube.com/watch?v=kQPnbimrj_c" target="_blank">
+                        <img class="cell-image" src="https://img.youtube.com/vi/kQPnbimrj_c/mqdefault.jpg">
+                    </a>
+                </div>
+                <!- - Description- ->
+                <div class="col-6 col-lg-12 video-description pt-2 pl-2">
+                    <a class="cell-title" href="http://www.youtube.com/watch?v=kQPnbimrj_c" target="_blank">
+                        <h6>20180310新湖國小全國音樂賽</h6>
+                    </a>
+                    <div class="row align-items-center justify-content-between no-gutters">
+                        <p class="cell-date col-12 ">2018-3-12</p>
+                        <p class="cell-category col-12" title="音樂">
+                            <button onclick="filterClass('music')">音樂</button>
+                        </p>
+                    </div>
+                </div>            
+            </div>
+        </div>
+    </div>
+    -->
+    <!-- Footer -->
+    <footer id="footer-div" class="py-3 text-white bg-dark">
+        <div class="row justify-content-center align-items-center no-gutters">
+            <div class="col-auto">
+                <a href="#top-div" title="To Top">
+                    <i class="fas fa-angle-up fa-2x"></i>
+                </a>
+            </div>
+            <!--
+            <div class="w-100 py-1"></div>
+            <div class="col-auto">
+                <a href="#" target="_blank">
+                    <i class="fab fa-youtube fa-2x"></i>
+                </a>
+                <a href="#" target="_blank">
+                    <i class="fab fa-twitter fa-2x"></i>
+                </a>
+            </div>
+            -->
+            <div class="w-100 py-2"></div>
+            <div id="copyright" class="text-center col-8 col-md-auto">
+                Copyright ©2018 <a href="http://www.shes.tp.edu.tw/" target="_blank">新湖國小</a> 版權所有 All rights reserved.
+            </div>
+        </div>
+    </footer>
+    <!-- jQuery CDN -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- jQuery local fallback -->
+    <script>
+        window.jQuery || document.write('<script src="javascript/jquery-3.3.1.min.js"><\/script>')
+    </script>
+    <script src="javascript/popper.min.js"></script>
+    <!-- Bootstrap JS CDN -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <!-- Bootstrap JS local fallback -->
+    <script>
+        if (typeof ($.fn.modal) === 'undefined') {
+            document.write('<script src="javascript/bootstrap.min.js"><\/script>')
+        }
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="javascript/parallax.min.js"></script>
+    <script src="javascript/gallery_videos.js"></script>
+    <script src="javascript/gallery.js"></script>
+</body>
+
+</html>

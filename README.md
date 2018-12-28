@@ -16,7 +16,7 @@
   * ### \~*Create a new Video\*~
     1. Web Update: [javascript/gallery_videos.js](javascript/gallery_videos.js) ([Reference](https://www.youtube.com/watch?v=Eq7yArnPIIc&feature=youtu.be))
     2. (Optional) Excel Update:  [youtubeVideos.xlsx](youtubeVideos.xlsx) 
-    3. (Optional) Excel to Web:  [csv2json](https://www.csvjson.com/csv2json) or [freeformate](https://www.freeformatter.com/csv-to-json-converter.html) ([Refference](tutorial/gallery/Excel_to_Web.mp4))
+    3. (Optional) Excel to Web:  [csv2json](https://www.csvjson.com/csv2json) or [freeformate](https://www.freeformatter.com/csv-to-json-converter.html) ([Reference](tutorial/gallery/Excel_to_Web.mp4))
 ---
 * **Medal**
   * *Banner*
@@ -37,4 +37,4 @@
             * Dimension: 320x426
      * Web Update: [javascript/medal_data.js](javascript/medal_data.js) ([Reference](tutorial/medal/Medal_Update.mp4))
      * (Optional) Excel Update:  [medals.xlsx](medals.xlsx)
-     * (Optional) Excel to Web:  [csv2json](https://www.csvjson.com/csv2json) or [freeformate](https://www.freeformatter.com/csv-to-json-converter.html)  ([Refference](tutorial/medal/Excel_to_Web.mp4))
+     * (Optional) Excel to Web:  [csv2json](https://www.csvjson.com/csv2json) or [freeformate](https://www.freeformatter.com/csv-to-json-converter.html)  ([Reference](tutorial/medal/Excel_to_Web.mp4))

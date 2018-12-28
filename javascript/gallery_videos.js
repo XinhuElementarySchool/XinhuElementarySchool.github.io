@@ -446,13 +446,5 @@
     "day": 16,
     "year": 2018,
     "category": "音樂"
-  },
-  {
-    "title": "1071214新湖國小合唱團聖誕戲劇",
-    "ID": "SSYX0l81s5U",
-    "month": 12,
-    "day": 17,
-    "year": 2018,
-    "category": "音樂"
   }
 ];

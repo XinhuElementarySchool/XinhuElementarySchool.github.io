@@ -14,7 +14,7 @@
     1. Name Update: Contact me (kind of complicated).
     2. Color Update: [css/gallery.css](css/gallery.css) | .classColorAll | background-color] ([Reference](tutorial/gallery/Category_Color.png))
   * ### \~*Create a new Video\*~
-    1. Web Update: [javascript/gallery_videos.js](javascript/gallery_videos.js) ([Reference](tutorial/gallery/Video_Update.mp4))
+    1. Web Update: [javascript/gallery_videos.js](javascript/gallery_videos.js) ([Reference](https://www.youtube.com/watch?v=Eq7yArnPIIc&feature=youtu.be))
     2. (Optional) Excel Update:  [youtubeVideos.xlsx](youtubeVideos.xlsx) 
     3. (Optional) Excel to Web:  [csv2json](https://www.csvjson.com/csv2json) or [freeformate](https://www.freeformatter.com/csv-to-json-converter.html) ([Refference](tutorial/gallery/Excel_to_Web.mp4))
 ---

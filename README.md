@@ -5,7 +5,7 @@
       1. Update Method:  Replace images and keep the filenames same.
       2. Update Notifications: small image size is better.  (.jpg is good enough in most case)
 ---
-### [活動影片專區 (Website Page)](https://xinhuelementaryschool.github.io/gallery.html)
+#### [活動影片專區](https://xinhuelementaryschool.github.io/gallery.html)
 * **Galley**
   * *Banner*
     1. Location: [src/gallery/](src/gallery/)
@@ -19,7 +19,7 @@
     2. (Optional) Excel Update:  [youtubeVideos.xlsx](youtubeVideos.xlsx) 
     3. (Optional) Excel to Web:  [csv2json](https://www.csvjson.com/csv2json) or [freeformate](https://www.freeformatter.com/csv-to-json-converter.html) ([Reference](tutorial/gallery/Excel_to_Web.mp4))
 ---
-### [獎盃專區 (Website Page)](https://xinhuelementaryschool.github.io/medal.html)
+#### [獎盃專區](https://xinhuelementaryschool.github.io/medal.html)
 * **Medal**
   * *Banner*
      1. Location: [src/medal/](src/medal/)

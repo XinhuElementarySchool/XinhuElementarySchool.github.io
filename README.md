@@ -29,7 +29,6 @@
      1. Name Update: Contact me (kind of complicated).
      2. Color Update: [css/medal.css](css/medal.css) | .classColorAll | background-color ([Reference](tutorial/medal/Category_Color.jpg))
   * ### \~*Create a new Medal\*~
-     * Recommended procedure: 1. tag index -> 2. take a photo -> 3.  web update / excel update 
      * Photo
        1. Big (original)
             * Location: [src/medal/medalPhotos/](src/medal/medalPhotos/)

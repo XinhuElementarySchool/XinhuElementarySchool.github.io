@@ -2,8 +2,8 @@
 * **Home**
   * *Image*
     * Location: [src/home/](./src/home/)
-      1. Update Method:  Replace images and keep the filenames same.
-      2. Update Notifications: small image size is better.  (.jpg is good enough in most case)
+    * Update Method:  Replace images and keep the filenames same.
+    * Update Notifications: small image size is better.  (.jpg is good enough in most case)
 ---
 #### [活動影片專區](https://xinhuelementaryschool.github.io/gallery.html)
 * **Galley**

@@ -30,11 +30,11 @@
      * Recommended procedure: 1. tag index -> 2. take a photo -> 3.  web update / excel update 
      * Photo
        1. Big (original)
-            * Location: [src/medalPhotos/](src/medalPhotos/)
+            * Location: [src/medal/medalPhotos/](src/medal/medalPhotos/)
             * Dimension: 3024x4032
        2. Small (compressed)
-            * Location: [src/medalPhotosDownsize/](src/medalPhotosDownsize/)
+            * Location: [src/medal/medalPhotosDownsize/](src/medal/medalPhotosDownsize/)
             * Dimension: 320x426
-     * Web Update: [javascript/medal_data.js] ([Reference](tutorial/medal/Medal_Update.mp4))
+     * Web Update: [javascript/medal_data.js](javascript/medal_data.js) ([Reference](tutorial/medal/Medal_Update.mp4))
      * (Optional) Excel Update:  [medals.xlsx](medals.xlsx)
      * (Optional) Excel to Web:  [csv2json](https://www.csvjson.com/csv2json) or [freeformate](https://www.freeformatter.com/csv-to-json-converter.html)  ([Refference](tutorial/medal/Excel_to_Web.mp4))

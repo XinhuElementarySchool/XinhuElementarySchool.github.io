@@ -469,6 +469,6 @@
     "month": 01,
     "day": 15,
     "year": 2019,
-    "category": "音樂"
+    "category": "活動"
   }
 ];

@@ -470,28 +470,5 @@
     "day": 15,
     "year": 2019,
     "category": "活動"
-  },
-  {
-    "title": "1080211新湖國小開學日",
-    "ID": "IRhtpHrR1vA",
-    "month": 02,
-    "day": 11,
-    "year": 2019,
-    "category": "活動"
-  },
-  {
-    "title": "警察杯杯在新湖",
-    "ID": "Arh5-tzWxSI",
-    "month": 02,
-    "day": 12,
-    "year": 2019,
-    "category": "活動"
-  },
-  {
-    "title": "學校日播放影片",
-    "ID": "O0aOhKfZH-Y",
-    "month": 02,
-    "day": 15,
-    "year": 2019,
-    "category": "教育"
+  }
 ];

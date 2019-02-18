@@ -471,6 +471,14 @@
     "year": 2018,
     "category": "音樂"
   },
+    {
+    "title": "2018聖誕音樂劇 Dr 萊爾的神奇百科在新湖國小2018 12 19新湖團隊演出",
+    "ID": "U3rwyJrBkWI",
+    "month": 12,
+    "day": 19,
+    "year": 2018,
+    "category": "音樂"
+  },
   {
     "title": "1071225聖誕音樂饗宴",
     "ID": "Hgr1Y4QrW1k",

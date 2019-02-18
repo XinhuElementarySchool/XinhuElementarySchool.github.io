@@ -432,6 +432,22 @@
     "category": "體育"
   },
   {
+    "title": "107新湖國小【大手牽小手‧故事親親說】活動影片504 vs 102",
+    "ID": "PW4IlJDr-_E",
+    "month": 11,
+    "day": 20,
+    "year": 2018,
+    "category": "教育"
+  },
+    {
+    "title": "107新湖國小【大手牽小手‧故事親親說】活動影片505 vs 101",
+    "ID": "krX4EvKMUwA",
+    "month": 11,
+    "day": 20,
+    "year": 2018,
+    "category": "教育"
+  },
+  {
     "title": "1071201新湖國小體表會",
     "ID": "V1yul9R1joQ",
     "month": 12,

@@ -545,7 +545,7 @@
   },
     {
     "title": "品德教育戲劇",
-    "ID": "r0gEI__FzZw&t",
+    "ID": "r0gEI__FzZw",
     "month": 04,
     "day": 02,
     "year": 2019,

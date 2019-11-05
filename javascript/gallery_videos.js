@@ -671,4 +671,12 @@
     "year": 2019,
     "category": "活動"
    },
+    {
+   "title": "新湖國小開學迎新活動",
+    "ID": "sNrAHa5WjmE",
+    "month": 08,
+    "day": 30,
+    "year": 2019,
+    "category": "活動"
+   },
 ];

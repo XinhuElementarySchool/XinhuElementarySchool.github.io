@@ -680,7 +680,7 @@
     "category": "活動"
    },
     {
-   "title": " 內湖文化藝術季 秋的禮讚戶外表演戶1",
+   "title": "內湖文化藝術季 秋的禮讚戶外表演戶1",
     "ID": "BCJJ11QUzQU",
     "month": 09,
     "day": 21,
@@ -688,8 +688,16 @@
     "category": "音樂"
    },
     {
-   "title": "  內湖文化藝術季 秋的禮讚戶外表演戶2",
+   "title": "內湖文化藝術季 秋的禮讚戶外表演戶2",
     "ID": "gtoQqjPgRfY",
+    "month": 09,
+    "day": 21,
+    "year": 2019,
+    "category": "音樂"
+   },
+   {
+   "title": "內湖文化藝術季 秋的禮讚戶外表演戶3",
+    "ID": "TsXTXDPTCds",
     "month": 09,
     "day": 21,
     "year": 2019,

@@ -789,7 +789,7 @@
     "month": 11,
     "day": 24,
     "year": 2019,
-    "category": "教育"
+    "category": "體育"
    },
     {
    "title": "1081130體育表演會",
@@ -797,7 +797,7 @@
     "month": 11,
     "day": 30,
     "year": 2019,
-    "category": "教育"
+    "category": "體育"
    },
     {
    "title": "1081212合唱團聖誕音樂劇",
@@ -805,6 +805,14 @@
     "month": 12,
     "day": 12,
     "year": 2019,
-    "category": "教育"
+    "category": "音樂"
+   },
+      {
+   "title": "1081220新湖聖誕劇",
+    "ID": "eRAJqXC4ARU",
+    "month": 12,
+    "day": 20,
+    "year": 2019,
+    "category": "活動"
    },
 ];

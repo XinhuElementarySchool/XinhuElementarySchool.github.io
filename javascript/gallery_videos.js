@@ -807,12 +807,20 @@
     "year": 2019,
     "category": "音樂"
    },
-      {
+    {
    "title": "1081220新湖聖誕劇",
     "ID": "eRAJqXC4ARU",
     "month": 12,
     "day": 20,
     "year": 2019,
     "category": "活動"
+   },
+    {
+   "title": "1081224管樂團聖誕表演",
+    "ID": "R2DBSPBQYLQ",
+    "month": 12,
+    "day": 24,
+    "year": 2019,
+    "category": "音樂"
    },
 ];

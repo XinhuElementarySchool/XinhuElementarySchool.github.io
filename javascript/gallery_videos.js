@@ -892,7 +892,7 @@
     "month": 05,
     "day": 28,
     "year": 2020,
-    "category": "活動"
+    "category": "音樂"
    },
      {
    "title": "205班音樂週表演",
@@ -900,6 +900,38 @@
     "month": 06,
     "day": 03,
     "year": 2020,
-    "category": "活動"
+    "category": "音樂"
+   },
+   {
+   "title": "好書大家讀101 105",
+    "ID": "jrgsYTGkGv4",
+    "month": 06,
+    "day": 10,
+    "year": 2020,
+    "category": "教育"
+   },
+    {
+   "title": "好書大家讀102 104 405",
+    "ID": "BccerOy4C7I",
+    "month": 06,
+    "day": 10,
+    "year": 2020,
+    "category": "教育"
+   },
+    {
+   "title": "好書大家讀201",
+    "ID": "RBEw_3QisqQ",
+    "month": 06,
+    "day": 10,
+    "year": 2020,
+    "category": "教育"
+   },
+     {
+   "title": "好書大家讀104",
+    "ID": "mbEHBSfcD5s",
+    "month": 06,
+    "day": 10,
+    "year": 2020,
+    "category": "教育"
    },
 ];

@@ -877,11 +877,21 @@
     "day": 06,
     "year": 2020,
     "category": "活動"
-   },{
+   },
+   {
    "title": "小魔豆美術班",
     "ID": "QhP85RkhkgA",
     "month": 04,
     "day": 06,
+    "year": 2020,
+    "category": "活動"
+   },
+      },
+   {
+   "title": "合唱團音樂表演",
+    "ID": "PmXSO8AOG9Q",
+    "month": 05,
+    "day": 28,
     "year": 2020,
     "category": "活動"
    },

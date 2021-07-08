@@ -885,8 +885,7 @@
     "day": 06,
     "year": 2020,
     "category": "活動"
-   },
-      },
+    },
    {
    "title": "合唱團音樂表演",
     "ID": "PmXSO8AOG9Q",

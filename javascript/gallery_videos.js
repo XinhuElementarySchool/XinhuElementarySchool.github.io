@@ -1373,12 +1373,21 @@
     "day": 28,
     "year": 2021,
     "category": "教育"
-   }, {
+   }, 
+     {
    "title": "南側門如校路線",
     "ID": "WRbQhTI7BKM",
     "month": 08,
     "day": 28,
     "year": 2021,
     "category": "教育"
+   },
+    {
+   "title": "1100901新湖國小新生開學日",
+    "ID": "nu6cVv-f_7E",
+    "month": 09,
+    "day": 01,
+    "year": 2021,
+    "category": "活動"
    },
 ];

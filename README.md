@@ -1,4 +1,4 @@
-### [台北市內湖區新湖國民小學 (Website Page)](https://xinhuelementaryschool.github.io/)
+### [臺北市內湖區新湖國民小學 (Website Page)](https://xinhuelementaryschool.github.io/)
 * **Home**
   * *Image*
     * Location: [src/home/](./src/home/)
